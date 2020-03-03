@@ -1,0 +1,9 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
+      <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
+      <option name="TYPE_ANNOTATION_STRUCTURAL_TYPE" value="false" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
