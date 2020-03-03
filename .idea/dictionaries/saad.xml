@@ -2,7 +2,9 @@
   <dictionary name="saad">
     <words>
       <w>addr</w>
+      <w>altera</w>
       <w>cfgs</w>
+      <w>laforest</w>
       <w>mlab</w>
       <w>mlabs</w>
       <w>multiport</w>
@@ -13,7 +15,9 @@
       <w>rdataport</w>
       <w>rport</w>
       <w>scalatest</w>
+      <w>scaltest</w>
       <w>spinalhdl</w>
+      <w>steffan</w>
       <w>verilog</w>
       <w>vhdl</w>
       <w>waddr</w>
