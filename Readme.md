@@ -26,3 +26,10 @@ parameters that are used
  - `useRdEn: Boolean` Use read enable signals
  - `asyncReads: Boolean` Do reads asynchronously
  - `mlabAttr: Boolean` Force Infer MLABs (Altera Quartus only)
+
+# Verification Strategy
+Multiple random configurations (16 wide, 32 deep) are created covering both synchronous and 
+asynchronous modes with random number of read and write ports (constrained
+within 1 to 5). They are first written with random 16 bit data using all
+write ports and then it is read back using all read ports. It is then checked if
+the readback data matched the data that was written
